@@ -1,4 +1,4 @@
 # VAE-GAN-Testing
-**Testing Repo**\n
+**Testing Repo**
 
 Testing VAE-GAN models for galaxy deblending 
